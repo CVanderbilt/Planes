@@ -27,4 +27,4 @@ The game's level is designed with waves of enemies instantiated every five secon
 - Planes: Follow specified curves and turns, offering various movement patterns.
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E1d2QzY284OWlvMzJ2ZDI0NHg0YnJzYXhteXI2dGNqNHQwbXU3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1uaK5D6txKpBjgtHNK/giphy.gif "SampleAnimation")
 - Asteroid Boss: Moves to a defined destination and remains there. It consists of large asteroids with rotating and orbiting parts.
-![alt text](https://dribbble.s3.amazonaws.com/direct-uploads/3d827b8a-4c69-4789-891c-5ec3bc338cc0/planes_boss.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIJUPYEOE5MYHCRCQ%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T161851Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=44d5d17d12a8175ad27e15c69995c1bcb72e349b12c0fc118413944d8e6b0e2e "SampleAnimation")
+![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlqNG5neGV6djNyMGMyczEwb242eWJhMXd1eWg4YjAzN2R0aTFkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W9RcrerJBA8y7LKOj3/giphy.gif "SampleAnimation")
