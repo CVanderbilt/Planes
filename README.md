@@ -8,8 +8,7 @@ The player controlls a plane that can move side-ways as well as up and down, the
 The player shoots projectiles which, instead of being instantiated by creating objects they are preloaded and activated or deactivated when needed (polling)
 If the player crashes with an enemy or its hitted by an enemy projectile it will loose a live (shown as a healthbar), and like in the U.N. Squadron game, during a brief period of time it will be vulnerable to die withing only one attack (two consecutive hits and the player is dead, even if the health bar was full).
 
-See demo [here](https://drive.google.com/drive/folders/1U3-gORA0G5fycVmV7h0zwFAHet3cED2X)
-
+See demo [here](https://drive.google.com/file/d/17w908gKJeiXT_ek3UJBFH5gc5xkCnGVI/view?usp=drive_link)
 ### Animations
 Player animations are really simple. The plane has three sprites, going up, going down and idle, the player projectiles are not animated. 
 The enemies are made with the same sprite, which is an alien looking space ship that rotates, the different enemies that we can have are:
