@@ -21,10 +21,14 @@ The enemies are made with the same sprite, which is an alien looking space ship 
 The game's level is designed with waves of enemies instantiated every five seconds. Each wave is composed of prefab enemy configurations, with various movements:
 
 - Turrets: Appear static, moving from right to left at a constant speed as the plane advances.  
+
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1NTBtOTd4ZjA2cG50dG9ta3Q2N3B2N3NpYXc3MHYyeWZvaDJhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYArk1UlfRCH0l5a8I/giphy.gif "SampleAnimation")
 - Choppers: Follow pre-set paths using nodes in straight lines, despawning after reaching the last node.  
+
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqdzJod2RwaHcxYzl4MnZkc3BhYmRhajBpZXd2cm9yaXhwcHh3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DxfY7cLLtFlpnpk8Wk/giphy.gif "SampleAnimation")
 - Planes: Follow specified curves and turns, offering various movement patterns.  
+
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E1d2QzY284OWlvMzJ2ZDI0NHg0YnJzYXhteXI2dGNqNHQwbXU3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1uaK5D6txKpBjgtHNK/giphy.gif "SampleAnimation")
 - Asteroid Boss: Moves to a defined destination and remains there. It consists of large asteroids with rotating and orbiting parts.  
+
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlqNG5neGV6djNyMGMyczEwb242eWJhMXd1eWg4YjAzN2R0aTFkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W9RcrerJBA8y7LKOj3/giphy.gif "SampleAnimation")
